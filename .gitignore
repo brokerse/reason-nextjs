@@ -3,3 +3,4 @@ bs
 lib/
 *.bs.js
 node_modules
+.next
